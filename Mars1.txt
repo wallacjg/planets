@@ -1,0 +1,3 @@
+Mars is red
+Mars does not have water
+Mars is cold 
